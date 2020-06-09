@@ -13,7 +13,7 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "server:start": "node ./jsonServer/server.js --port=3030",
-        "server:initdb": "node ./jsonServer/randomData/index.js --count=5"
+        "server:initdb": "node ./jsonServer/randomData/index.js --count=0"
     },
     "dependencies": {
         "@hapi/joi": "17.1.1",

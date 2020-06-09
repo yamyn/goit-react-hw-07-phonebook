@@ -9,8 +9,11 @@ This project was bootstrapped with
 For expecting work app with api in project use `json-server`.
 
 ### Using
-    - `npm run server:initdb`, if you need to create random contacts change `count` argument on count of contacts, that you need
-    - `npm run server:start`, start your json-server on 3030 port (`port` argument in script), if You would like to use other port, change `port` argument, that you need
+    - `npm run server:initdb` 
+        *if you need to create random contacts change `count` argument on count of contacts, that you need
+    - `npm run server:start`
+        *start your json-server on 3030 port (`port` argument in script), 
+        if You would like to use other port, change `port` argument, that you need
 
 ## Available Scripts
 
